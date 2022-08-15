@@ -1,0 +1,23 @@
+{
+  "name": "grunt",
+  "version": "1.0.0",
+  "description": "Basics of grunt.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinicius-grandi/Grunt.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vinicius-grandi/Grunt.js/issues"
+  },
+  "homepage": "https://github.com/vinicius-grandi/Grunt.js#readme",
+  "devDependencies": {
+    "grunt": "^1.5.3"
+  }
+}
